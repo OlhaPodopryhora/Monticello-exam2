@@ -265,7 +265,7 @@ function initMap() {
     let marker = new google.maps.Marker({
         position: address,
         map: map,
-        icon: '../imgs/marker.svg',
+        icon: 'imgs/marker.svg',
         title: '91 Nolan Extensions Suite 670'
     });
 };
